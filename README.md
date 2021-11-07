@@ -1,5 +1,5 @@
 
-# 模型可视化11!
+# 信号可视化11!
 
 # Deep-learning-for-Modulation-Recognition-on-RML2016.10a_dict-dataset
 This project contains implementation of a deep learning model using a convolutional neural network (CNN) and Long short-term memory 
